@@ -16,6 +16,7 @@
   "activeDatasourceList": ".t--active-datasource-list",
   "datasourceCard": ".t--datasource",
   "editDatasource": ".t--edit-datasource",
+  "datasourceTitle": ".t--edit-datasource-name .bp3-editable-text-content",
   "defaultDatabaseName": "input[name='datasourceConfiguration.connection.defaultDatabaseName']",
   "datasourceConfigurationProperty":"input[name='datasourceConfiguration.properties[0]']",
   "selConnectionType": "[data-cy='datasourceConfiguration.connection.type']",
